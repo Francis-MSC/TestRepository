@@ -14,4 +14,8 @@
     return num+3;
 }
 
++(NSInteger)delete:(NSInteger)num{
+    return num+3;
+}
+
 @end

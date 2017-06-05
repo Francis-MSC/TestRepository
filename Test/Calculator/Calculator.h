@@ -12,4 +12,6 @@
 
 +(NSInteger)add:(NSInteger)num;
 
++(NSInteger)delete:(NSInteger)num;
+
 @end
